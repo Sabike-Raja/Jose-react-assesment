@@ -1,0 +1,15 @@
+.job-card {
+  width: 830px;
+  padding: 16px 24px;
+  background: white;
+  border-radius: 14px;
+}
+
+.job-logo {
+  width: 68px;
+  height: fit-content;
+}
+
+.card-description {
+  margin-left: 8px;
+}

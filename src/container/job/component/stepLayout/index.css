@@ -1,0 +1,9 @@
+.step-layout {
+  padding: 32px
+}
+
+.step-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}

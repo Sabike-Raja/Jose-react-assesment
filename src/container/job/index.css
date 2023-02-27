@@ -1,0 +1,5 @@
+.job-card-con {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 62px;
+}

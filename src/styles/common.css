@@ -1,0 +1,94 @@
+/* text align styles goes here */
+.text-end {
+  text-align: end;
+}
+
+/* app styles goes here */
+.app-container {
+  padding: 40px;
+}
+
+.app-icon {
+  width: 24px;
+  height: fit-content;
+}
+
+/* common across applicatiion */
+.primary-bg {
+  background: #1597e4 !important;
+}
+
+/* controll width */
+.w-50 {
+  width: 50%;
+}
+
+/* align content styles goes here*/
+.d-flex {
+  display: flex;
+}
+
+.column-gap-24 {
+  column-gap: 24px;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+/* margin styles goes here */
+.mr-12 {
+  margin-right: 12px;
+}
+
+.mr-24 {
+  margin-right: 24px;
+}
+
+.ml-16x {
+  margin-left: 16px;
+}
+
+.mr-4x {
+  margin-right: 4px;
+}
+
+.mt-4x {
+  margin-top: 4px;
+}
+
+/* common padding styles goes here*/
+.pb-8x {
+  padding-bottom: 8px;
+}
+
+.pl-4 {
+  padding-left: 4px;
+}
+
+.b-0 {
+  bottom: 0px;
+}
+
+/* Position related style goes here*/
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+}
+
+.text-primary {
+  color: #1597e4;
+  border: 1px solid #1597e4
+}
+
+.heading {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.font-medium {
+  color: #545353;
+}
