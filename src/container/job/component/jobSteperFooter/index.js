@@ -11,7 +11,7 @@ export const JobSteperFooter = ({ oncloseModal, buttonName, isLoading }) => {
       />
       <Button
         buttonType="submit"
-        addtionalClass="primary-bg text-white sm:ml-3"
+        addtionalClass="primary-bg text-white ml-16x"
         buttonName={isLoading ? 'Loading...' : buttonName}
       />
     </>
